@@ -1,0 +1,1 @@
+Branching Factor is the number of children at each node. 

@@ -1,0 +1,1 @@
+[[Sequential Decision Problems]] are discussed in this section as the agent's utility depends on a sequence of decisions. Sequential decision problems incorporate **utilities, uncertainty, and sensing**. 

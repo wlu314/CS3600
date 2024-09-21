@@ -1,0 +1,1 @@
+$$P(y)P(x|y)=P(x,y)$$![[Product Rule.png]]
